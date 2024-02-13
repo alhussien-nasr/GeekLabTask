@@ -1,0 +1,14 @@
+.select-container p {
+  color: #a3a3a3;
+  font-size: 14px;
+}
+
+.select-container {
+  color: #fffcfc;
+  margin-bottom: 23px;
+}
+
+.option {
+  background-color: "#181818";
+  
+}
